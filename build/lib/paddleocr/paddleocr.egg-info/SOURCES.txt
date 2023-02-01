@@ -1,0 +1,9 @@
+main.py
+paddleocr.py
+setup.py
+paddleocr.egg-info/PKG-INFO
+paddleocr.egg-info/SOURCES.txt
+paddleocr.egg-info/dependency_links.txt
+paddleocr.egg-info/entry_points.txt
+paddleocr.egg-info/requires.txt
+paddleocr.egg-info/top_level.txt
